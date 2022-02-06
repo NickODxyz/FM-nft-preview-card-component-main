@@ -27,7 +27,7 @@ Image overlays, I had a go at it on my own at first. But must admit I had to use
 ## Site links
 Hosted [Live Site](https://nickodxyz.github.io/FM-nft-preview-card-component-main/)
 <br>
-Frontend Mentor [Solution Page]()
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/nft-preview-card-image-overlay-R8TWnmYML)
 
 <br>
 
