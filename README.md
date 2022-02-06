@@ -12,7 +12,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## What I learned
 
-Image overlays, I had a go at it on my own at first. But must admit I had to use w3schools to actually get it working as needed - Link below.
+Image overlays, I had a go at it on my own at first. But must admit I had to use w3schools to actually get it working as needed - [w3schools link](https://www.w3schools.com/howto/howto_css_image_overlay_title.asp).
 
 <br>
 
@@ -21,6 +21,13 @@ Image overlays, I had a go at it on my own at first. But must admit I had to use
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+<br>
+
+## Site links
+Hosted [Live Site](https://nickodxyz.github.io/FM-nft-preview-card-component-main/)
+<br>
+Frontend Mentor [Solution Page]()
 
 <br>
 
