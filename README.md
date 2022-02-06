@@ -27,6 +27,7 @@ Image overlays, I had a go at it on my own at first. But must admit I had to use
 ## Useful resources
 
 [Figma](https://www.figma.com)
+<br>
 [w3schools - How to Image Overlay Title](https://www.w3schools.com/howto/howto_css_image_overlay_title.asp)
 
 <br>
@@ -42,4 +43,5 @@ Image overlays, I had a go at it on my own at first. But must admit I had to use
 ## Acknowledgments
 
 Frontend Mentor & everyone kind enough to leave feedback
+<br>
 w3schools
